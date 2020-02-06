@@ -1,0 +1,19 @@
+{
+  "devToolsPort": 19002,
+<<<<<<< HEAD
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://qp-fuk.anonymous.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.qp-fuk.anonymous.mobile.exp.direct",
+  "ngrokPid": 5188,
+=======
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 5717,
+  "expoServerNgrokUrl": "https://qp-fuk.anonymous.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.qp-fuk.anonymous.mobile.exp.direct",
+  "ngrokPid": 5769,
+>>>>>>> 9e1eee04ada0c093652411370d7148cbd7996231
+  "webpackServerPort": null
+}
