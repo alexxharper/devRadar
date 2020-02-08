@@ -25,6 +25,7 @@ Com um backend feito em <a href="http://nodejs.org">NodeJS</a>, utilizei o <a hr
 
 <h2 align="center">Observações</h2>
 <p align="center">
-  Todos os usuários "cadastrados" nessa aplicação, tem o objetivo apenas<br> de testar a aplicação, alguns dados podem não estar corretos, pois algumas<br> informações são fictícias e não devem ser levadas a sério!
+  Todos os usuários "cadastrados" nessa aplicação, tem o objetivo apenas<br> de testar a aplicação, alguns dados podem não estar corretos, pois algumas<br> informações são fictícias e não devem ser levadas a sério!<br>
+  Este é um projeto original da <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
  
